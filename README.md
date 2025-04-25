@@ -1,5 +1,8 @@
 # IMDB_dataset_analysis-_Advanced-SQL
 
+![image](https://github.com/user-attachments/assets/c6c7f335-7a5f-471c-b638-6774a614a207)
+
+
 INTRODUCTION
 
 To analyze a simplified version of the IMDb dataset using Advanced SQL to extract meaningful insights from a real-world movie dataset. 
