@@ -15,7 +15,9 @@ GOALS : Key findings and insights, demonstrating how SQL can be used for Data-dr
         decision making in the entertainment industry.
 ![Image](https://github.com/user-attachments/assets/19cfce9b-8691-4162-be05-f23168a09ca9)
 
-#CONCLUSION
+
+CONCLUSION
+
 The most common movie genre and top-performing production companies based on audience votes.
 The average movie duration per genre and how ratings vary across movies.
 The most frequent languages in film production and the countries contributing the most movies.
