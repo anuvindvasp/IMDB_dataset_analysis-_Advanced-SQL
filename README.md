@@ -1,9 +1,9 @@
-# IMDB_dataset_analysis-_Advanced-SQL
+# IMDB dataset analysis- Advanced SQL
 
 ![image](https://github.com/user-attachments/assets/c6c7f335-7a5f-471c-b638-6774a614a207)
 
 
-INTRODUCTION
+## INTRODUCTION
 
 To analyze a simplified version of the IMDb dataset using Advanced SQL to extract meaningful insights from a real-world movie dataset. 
 
@@ -13,13 +13,22 @@ The dataset includes essential information about movies like genres, directors, 
 
 GOALS : Key findings and insights, demonstrating how SQL can be used for Data-driven
         decision making in the entertainment industry.
-![Image](https://github.com/user-attachments/assets/19cfce9b-8691-4162-be05-f23168a09ca9)
 
+## Dataset
 
-CONCLUSION
+KEY TABLES: Movie, Genre, Director Mapping, Role Mapping, Names, Ratings
+![image](https://github.com/user-attachments/assets/48295a9a-c606-4d15-8f23-3e9027644112)
 
-The most common movie genre and top-performing production companies based on audience votes.
-The average movie duration per genre and how ratings vary across movies.
-The most frequent languages in film production and the countries contributing the most movies.
-The actors, directors, and production companies that have had a major impact on the industry.
+### SQL Queries
+* 25 sql queries are carried out
+
+## CONCLUSION
+
+○ The most common movie genre and top-performing production companies based on audience votes
+
+○ The average movie duration per genre and how ratings vary across movies
+
+○ The most frequent languages in film production and the countries contributing the most movies
+
+○ The actors, directors, and production companies that have had a major impact on the industry
 
